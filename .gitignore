@@ -1,0 +1,10 @@
+config.json
+api_keys.json
+binance_keys.txt
+notify_config.json
+license_key.json
+license_token.txt
+*.log
+*.csv
+build/
+dist/
