@@ -1,8 +1,8 @@
 {
-  "version": "V073",
-  "version_code": 73,
+  "version": "V074",
+  "version_code": 74,
   "repo": "https://github.com/PlanC90/V2-aggressive.git",
   "download_url": "https://raw.githubusercontent.com/PlanC90/V2-aggressive/main/PlanCTraderV2.exe",
-  "release_notes": "PlanC Trader V2 V073 Sürümü - Performans ve kâr koruma geliştirmeleri.",
-  "updated_at": "2026-08-28 20:34:58"
+  "release_notes": "PlanC Trader V2 V074 Sürümü - Performans ve kâr koruma geliştirmeleri.",
+  "updated_at": "2026-08-28 20:52:00"
 }
