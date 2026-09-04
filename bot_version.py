@@ -1,1 +1,1 @@
-VERSION = "V105"
+VERSION = "V106"
