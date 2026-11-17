@@ -1,8 +1,8 @@
 {
-  "version": "V208",
-  "version_code": 208,
+  "version": "V209",
+  "version_code": 209,
   "repo": "https://github.com/PlanC90/V2-aggressive.git",
   "download_url": "https://raw.githubusercontent.com/PlanC90/V2-aggressive/main/PlanCTraderV2.exe",
-  "release_notes": "PlanC Trader V2 V208 Sürümü - Performans ve kâr koruma geliştirmeleri.",
-  "updated_at": "2026-11-17 12:36:47"
+  "release_notes": "PlanC Trader V2 V209 Sürümü - Performans ve kâr koruma geliştirmeleri.",
+  "updated_at": "2026-11-17 12:41:05"
 }
